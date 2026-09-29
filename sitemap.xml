@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wewillnotvoteuntil.org/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wewillnotvoteuntil.org/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://wewillnotvoteuntil.org/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wewillnotvoteuntil.org/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wewillnotvoteuntil.org/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wewillnotvoteuntil.org/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://wewillnotvoteuntil.org/it/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wewillnotvoteuntil.org/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+</urlset>

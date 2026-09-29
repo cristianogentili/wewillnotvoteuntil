@@ -1,0 +1,20 @@
+# We Will Not Vote Until / Non voteremo finché
+
+> A civic manifesto by Cristiano Gentili (2026), published in English and Italian under a Creative Commons Attribution 4.0 licence. It proposes a declared, peaceful, temporary and conditional abstention from voting, tied to ten measurable democratic conditions, with an explicit commitment to return to the ballot box the day those conditions become law.
+
+Core argument: an unconvinced vote works as consent to the system that receives it ("our vote is the fuel of the system"). Withholding consent only has an effect when it is sudden, coordinated and attributable — organised, declared and countable. Two historical precedents are discussed: Bangladesh 1994–96 (opposition boycott, 21% turnout in February 1996, thirteenth constitutional amendment introducing a neutral caretaker government) and Chile 1988 (the No campaign won the plebiscite with 55.99%).
+
+The ten conditions: a binding "None of the Above" option; political funding published within 48 hours; an independent anti-corruption authority; fair airtime and public archives of political advertising; verifiable vote counting; open candidacies; citizens' assemblies selected by lot with a mandatory reply from government; recall of elected representatives; strict conflict-of-interest and revolving-door rules; open public data with penalties for non-disclosure.
+
+The author states that the manifesto is not linked to any party, movement or organisation.
+
+## Read
+
+- [English page](https://wewillnotvoteuntil.org/): summary and downloads
+- [Pagina italiana](https://wewillnotvoteuntil.org/it/): sintesi e download
+- [Full text, English (PDF)](LINK-ZENODO-EN-PDF)
+- [Testo integrale, italiano (PDF)](LINK-ZENODO-IT-PDF)
+
+## Licence
+
+- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free to copy, translate and republish with attribution to Cristiano Gentili.
