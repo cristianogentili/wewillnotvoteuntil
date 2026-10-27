@@ -10,7 +10,7 @@ Translations into any language are welcome. The English text is the reference ve
 
 1. Download the English text from the website.
 2. Translate it in full, keeping the ten conditions and their structure intact.
-3. Open an *issue* in this repository, or write to INSERISCI-EMAIL, attaching your translation and telling us the language and how you would like to be credited.
+3. Open an *issue* in this repository, or write to info@wewillnotvoteuntil.org, attaching your translation and telling us the language and how you would like to be credited.
 
 Please keep these fixed phrases consistent across translations:
 
