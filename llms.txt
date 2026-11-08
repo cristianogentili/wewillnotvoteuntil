@@ -14,6 +14,8 @@ The author states that the manifesto is not linked to any party, movement or org
 - [Testo integrale, italiano (HTML)](https://wewillnotvoteuntil.org/it/leggi/): il manifesto completo come pagina web
 - [English page](https://wewillnotvoteuntil.org/): summary and downloads
 - [Pagina italiana](https://wewillnotvoteuntil.org/it/): sintesi e download
+- [One-page summary, English (PDF)](https://zenodo.org/records/24058760/files/We_Will_Not_Vote_Until_one_page.pdf?download=1): the idea, the two precedents and the ten conditions on a single A4 page
+- [Sintesi in una pagina, italiano (PDF)](https://zenodo.org/records/24058377/files/Non%20voteremo%20finche_una_pagina_IT.pdf?download=1)
 - [Full text, English (PDF)](https://zenodo.org/records/23763330/files/We_Will_Not_Vote_Until.pdf?download=1)
 - [Testo integrale, italiano (PDF)](https://zenodo.org/records/23763196/files/Non_voteremo_finche.pdf?download=1)
 
